@@ -1,0 +1,18 @@
+header{
+    background-color:rgb(79, 108, 95);
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+body{
+    color: aliceblue;
+    background-image: linear-gradient(to right,darkslategray,gray);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
